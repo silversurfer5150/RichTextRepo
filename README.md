@@ -4,8 +4,8 @@
 
 <p>For the last few years I have been working at IBM. Here are some of the projects which I worked on, descriptions of the architecture and business purposes of these applications and the technology stacks which they used.</p>
 
-<h4>ECM Common Components team</h4>
-<p>I was working on the IBM content management system, ECM (Enterprise Content Manager). There I was responsible for creating the tools which content builders could use to generate certain IBM layouts compliant with ibm web standards</p>
+<h4>Common Components team</h4>
+<p>I was working on a content management system developing what we call common components. There I was responsible for creating the tools which content builders could use to generate certain IBM layouts compliant with ibm web standards</p>
 <ul>
 <li>CKEditor</li>
 <li>JavaScript / jQuery</li>
