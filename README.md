@@ -11,5 +11,7 @@
 <li>JavaScript / jQuery</li>
 <li>Plugin Development for CKEditor</li>
 <li>Customization of SK Editor defaults</li>
-<li>Development of custom web page authoring templates for the CMS using XSLT</li>
+<li>Development of custom web page authoring templates for the CMS using XSLT and XML</li>
+<li>Peer Code Reviews</li>
+<li>Agile Development in 2 week sprints</li>
 </ul>
