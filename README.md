@@ -1,16 +1,16 @@
 # RichTextRepo
 
-<h3>This rich text repo is here to describe to interested parties some of the other code / projects that I have worked on which can't be pasted here without breaching my NDA</h3>
+<h3>This rich text repo is here to describe to interested parties some of the other code / projects that I have worked on which can't be released online</h3>
 
 <p>For the last few years I have been working at IBM. Here are some of the projects which I worked on, descriptions of the architecture and business purposes of these applications and the technology stacks which they used.</p>
 
 <h4>CMS Customization and Module Development</h4>
-<p>I was working on a content management system developing what we call common components. There I was responsible for creating the tools which content builders could use to generate certain IBM layouts compliant with ibm web standards</p>
+<p>I was working on a content management system developing what we call <i>common components</i>. There I was responsible for creating the tools which content builders could use to generate certain IBM layouts compliant with IBM web standards</p>
 <ul>
 <li>CKEditor</li>
 <li>JavaScript / jQuery</li>
 <li>Plugin Development for CKEditor</li>
-<li>Customization of SK Editor defaults</li>
+<li>Customization of CKEditor defaults</li>
 <li>Development of custom web page authoring templates for the CMS using XSLT and XML</li>
 <li>Peer Code Reviews</li>
 <li>Agile Development in 2 week sprints</li>
@@ -27,5 +27,6 @@
 <li>The revamp of the ECC application into a pure JavaScript based stack using node.js and a certain component based JavaScript library</li>
 </ul>
 
-<h4>Content And Personalization Team (Somers Lab NYC)</h4>
-<p>Due to the prsonalization nature of my above work with ECC, I was often loaned out to the main C and P Team which operates out of the Agile design lab in New York City.</p>
+<h4>Content And Personalization Team</h4>
+<p>Due to the prsonalization nature of my above work with ECC, I was often loaned out to another team dealing with the personalization of pages, ephemeral advertising. We were capturing the customer's IP related to certain industries that they came from and when returning customers reached our pages I developed tools that showed them tailored marketing content based on that industry.</p>
+<p>With the advent in 2015 of Watson AI, the team began developing ways to allow Watson to analyze and recommend the best personalized content and I was involved in a project that recommened certain video content from the IBM YouTube channel using the Google YouTube API.</p>
