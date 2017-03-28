@@ -19,7 +19,7 @@
 
 <h4>ECC Enterprise Content Catalog Team (Global) - Team Co-ordinator / Full Stack Developer</h4>
 <p>I was assigned to the ECC which is a catalog of IBM marketing content all stored in <i>Cloudant</i> - the IBM version of the NoSQL database, Apache Couch DB</p>
-<p>After spending many years on this team, I became very familar with building queries and dynamically generating content on ibm.com pages using JavaScript to load Cloudant content</p>
+<p>After spending many years on this team, I became very familar with building Cloudant queries, view, show and list functions and using JavaScript to dynamically generate the catalog content on ibm.com pages</p>
 <ul>
 <li>Development of special jQuery widgets to deliver the Cloudant records to corporate pages in specific IBM standards compliant layouts using Mustache.js templates. Customizing and designing these widgets for a variety of different internal customers with many different user and developer requirements.</li>
 <li>The developent of the UI to deliver this catalog of content. This JavaScript application included a special sub-application to develop the bundles or packages of content compatible with the above widget. This snippet builder became a huge codebase evolving for the use of teams across many global ibm.com sites.</li>
